@@ -1,0 +1,21 @@
+body{
+    background-color: bisque;
+}
+h1{
+    background-color: burlywood;
+    color: ;
+}
+h2{
+    color: blueviolet;
+    background-color: rgb(104, 220, 145);
+}
+p{
+    background-color: rgb(230, 121, 121);
+    color: black;
+}
+fieldset{
+    background-color: rgb(201, 66, 129);
+    width: 600px;
+    height: 600px;
+}
+]
